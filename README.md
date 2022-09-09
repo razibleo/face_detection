@@ -5,5 +5,5 @@ Face Detection to check whether the person is smiling, wearing glasses, and look
 
 #### Demo
 <a href="https://youtu.be/0y9EjauxrKo
-" target="_blank"><img src="https://i9.ytimg.com/vi/0y9EjauxrKo/mqdefault.jpg?v=6319cc6b&sqp=CNyY55gG&rs=AOn4CLAEx3fsL99ICeRWfJTWphIDnUJUNw" 
+" target="_blank"><img src="https://github.com/razibsarkerleo/face_detection/blob/ebfa4e721e12967ec4e3249ba29b50f48f874f4d/facedetection_thumbnail.jpeg" 
  width="350"  /></a>
